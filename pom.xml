@@ -14,8 +14,8 @@
 	<name>VotreBanque</name>
 	<description>Demo project for Spring Boot</description>
 	
-	<!-- "<packaging>jar</packaging>"permet de deployer l'application
-	                    en jar ou war avec l'aide du maven-plugin -->
+	<packaging>jar</packaging>
+	<!-- permet de deployer l'application en jar ou war avec l'aide du maven-plugin -->
 	
 
 	<properties>
